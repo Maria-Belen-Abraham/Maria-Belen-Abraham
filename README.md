@@ -1,5 +1,14 @@
-👋  ¡Hola! Soy María Belén Abraham, una apasionada del diseño de interfaces de usuario intuitivas y atractivas tanto para aplicaciones web como para aplicaciones móviles. Me fascina explorar el potencial del aprendizaje automático y la inteligencia artificial en nuestro día a día. Además, me intrigan las nuevas tecnologías emergentes, como la realidad aumentada y la realidad virtual, y su impacto en campos como la educación y el entretenimiento.
+## ¡Hola! 👋 Soy María Belén Abraham
+💻 Estudiante de Ciencias de la Computación | 🚀 Apasionada por la tecnología
 
-🌱 Tengo conocimientos en Diseño UX/UI, HTML, CSS y MySQL, y actualmente estoy ampliando mis conocimientos en PHP. Estoy buscando colaborar en proyectos que combinen tecnología y sostenibilidad, ya que creo firmemente en la importancia de crear un mundo más ecológico y consciente.
+Me encanta el entorno tecnológico porque siempre hay algo nuevo por descubrir, y eso lo hace súper intrigante y emocionante. Soy una persona proactiva, alegre y llena de energía. Siempre busco aprender cosas nuevas y desafiarme constantemente.
 
-📫 Si deseas contactarme, puedes escribirme a abrahammariabelen@gmail.com. ¡Espero tener la oportunidad de colaborar contigo en proyectos tecnológicos emocionantes!
+❌ La rutina no es lo mío; necesito variar lo que hago o encontrar formas creativas de hacerlo para mantenerme motivada.
+Vivo en Buenos Aires, Argentina, desde que nací. Nunca viajé a otros lugares, pero espero poder hacerlo algún día (aunque no sola, porque no me gusta la soledad). Siempre trato de llevarme bien con todo el mundo, y casi siempre lo logro, excepto cuando no acepto ciertas actitudes que no van.
+
+
+
+
+
+
+
